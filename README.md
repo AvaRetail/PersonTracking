@@ -1,5 +1,8 @@
 # smoothShop
 
+![image](https://github.com/Bumpeet/smoothShop/assets/86848360/d4b6bbc8-1651-4fc5-b263-0570a5461718)
+
+
 ## Motivation
 A solution like smooth shop involves many things that run in the background like object tracking, sensor fusion, virtual floor maps, pose estimation and many more. This repository cotains the code related to subset of the smooth shop in python; the idea is that we need to keep track of the customer entered into the store in a virtual space. why do we need to have a virtual space in the first place, this is because the virtual space helps us in creating the zones, product location and also sensor location. So, when a customer is tracked in the virtual space picks up a product which is also connected the same virtual space helps us in tracking the products along with the customer by some triggering events.
 
