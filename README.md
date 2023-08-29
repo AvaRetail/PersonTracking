@@ -10,6 +10,6 @@ A solution like smooth shop involves many things that run in the background like
 - The track ids which are independent from each system will be sent to a single system along with the foot position of 2D pose estimation using MQTT broker.
 - all of these independent results has to be merged together to make a single id for a customer.
 
-  ## Pre-Requisites
-  - There is one more important task that needs to be done is the Intrinsic and Extrinsic calibration for both the IP Cameras.
-  - This helps us in mapping the points from 2D Image space to the world co-ordinates.
+## Pre-Requisites
+- There is one more important task that needs to be done is the Intrinsic and Extrinsic calibration for both the IP Cameras.
+- This helps us in mapping the points from 2D Image space to the world co-ordinates.
